@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kamesh 👋
 
-<!--
-**kamesh12k/kamesh12k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Backend Developer  
+🤖 Learning AI & Machine Learning  
+🚀 Goal: Become industry-ready before graduation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C Programming
+- Python (Learning)
+- Data Structures
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+- Django Backend Development
+- DSA for Placements
+- Machine Learning Basics
+
+---
+
+## 🎯 2026 Goals
+- Build 5 Backend Projects
+- Contribute to Open Source
+- Get Internship by 2nd Year
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (Add later)
